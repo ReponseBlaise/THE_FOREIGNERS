@@ -158,22 +158,22 @@ The impact of partitioning on query performance
 
 Memory usage with large window frames
 
-Contribution Summary
-[Blaise]
+## Contribution Summary
+### Eunice
 Designed and implemented the database schema
 
 Created the salary comparison and department ranking procedures
 
 Wrote the initial documentation
 
-[Eunice]
+### Blaise
 Developed the top earners and salary distribution procedures
 
 Created sample data and test cases
 
 Refined the documentation and added real-world application examples
 
-Future Enhancements
+## Future Enhancements
 Add more comprehensive error handling
 
 Incorporate additional window functions like FIRST_VALUE and LAST_VALUE
@@ -182,7 +182,7 @@ Create visualization procedures to generate HTML reports
 
 Add historical tracking for salary changes over time
 
-#Resources
+## Resources
 Oracle Window Functions Documentation
 YouTube Tutorial on Window Functions.
 

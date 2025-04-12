@@ -1,17 +1,20 @@
-# README: SQL Window Functions Analysis Project
-## Project Overview
-This project demonstrates the practical application of SQL window functions in Oracle PL/SQL. We've created a comprehensive database solution that includes table creation, sample data insertion, and several analytical procedures that leverage window functions to solve common business problems related to employee salary analysis.
+#SQL Window Functions Analysis Project
 
-# Team Information
-Group Name: THE_FOREIGNERS
+## Team Information
+##Members:
+###Blaise, 
+###Eunice
 
-Members: [Blaise], [Eunice]
-
-Instructor: Eric Maniraquha
+###Instructor: Eric Maniraquha
 
 Course: Database Development with PL/SQL (INSY 8311)
 
 Institution: Adventist University of Central Africa
+
+## Project Overview
+This project demonstrates the practical application of SQL window functions in Oracle PL/SQL. We've created a comprehensive database solution that includes table creation, sample data insertion, and several analytical procedures that leverage window functions to solve common business problems related to employee salary analysis.
+
+
 
 # Database Schema
 Our database consists of two main tables:
@@ -178,11 +181,8 @@ Create visualization procedures to generate HTML reports
 
 Add historical tracking for salary changes over time
 
-Resources
+#Resources
 Oracle Window Functions Documentation
-
-GitHub Repository
-
 YouTube Tutorial on Window Functions.
 
 

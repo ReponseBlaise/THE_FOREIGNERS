@@ -183,6 +183,7 @@ Oracle Window Functions Documentation
 
 GitHub Repository
 
-YouTube Tutorial on Window FunctionsProject.
+YouTube Tutorial on Window Functions.
+
 
 

@@ -1,16 +1,16 @@
-#SQL Window Functions Analysis Project
+# SQL Window Functions Analysis Project
 
 ## Team Information
-##Members:
+## Members:
 
-###1. MUSHIMIYUMUKIZA Blaise 
-###Eunice
+### 1. MUSHIMIYUMUKIZA Blaise 
+### Eunice
 
-###Instructor: Eric Maniraquha
+### Instructor: Eric Maniraquha
 
-Course: Database Development with PL/SQL (INSY 8311)
+### Course: Database Development with PL/SQL (INSY 8311)
 
-Institution: Adventist University of Central Africa
+### Institution: Adventist University of Central Africa
 
 ## Project Overview
 This project demonstrates the practical application of SQL window functions in Oracle PL/SQL. We've created a comprehensive database solution that includes table creation, sample data insertion, and several analytical procedures that leverage window functions to solve common business problems related to employee salary analysis.

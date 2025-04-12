@@ -2,7 +2,8 @@
 
 ## Team Information
 ##Members:
-###Blaise, 
+
+###1. MUSHIMIYUMUKIZA Blaise 
 ###Eunice
 
 ###Instructor: Eric Maniraquha

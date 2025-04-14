@@ -188,5 +188,6 @@ YouTube Tutorial on Window Functions.
 
 # screenshoots
 https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/a1056205a88206af4faa21bb4001a572f1d30753/pic%201.jpg
+https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/82259deac0d6f468ad6ebcaf7005d8b96d6943d5/pic%202.jpg
 
 

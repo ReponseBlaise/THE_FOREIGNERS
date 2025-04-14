@@ -186,5 +186,7 @@ Add historical tracking for salary changes over time
 Oracle Window Functions Documentation
 YouTube Tutorial on Window Functions.
 
+# screenshoots
+https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/a1056205a88206af4faa21bb4001a572f1d30753/pic%201.jpg
 
 

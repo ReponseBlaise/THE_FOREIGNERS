@@ -4,7 +4,7 @@
 ## Members:
 
 ### 1. MUSHIMIYUMUKIZA Blaise 
-### Eunice
+### 2. AINEMBABAZI Eunice
 
 ### Instructor: Eric Maniraquha
 
@@ -190,4 +190,4 @@ YouTube Tutorial on Window Functions.
 https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/a1056205a88206af4faa21bb4001a572f1d30753/pic%201.jpg
 https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/82259deac0d6f468ad6ebcaf7005d8b96d6943d5/pic%202.jpg
 https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/ed7b8fbc8032bf635a44f4cdf25d7274d0a3a905/pic%203.jpg
-
+https://github.com/ReponseBlaise/THE_FOREIGNERS/blob/97dce3f4a1e5b0f43a315dfa7ad7daa84351aba3/pic%204.jpg

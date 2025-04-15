@@ -54,7 +54,7 @@ Window Functions Used:
 <P>1.RANK() - Standard ranking with gaps</P>
 <p>2.DENSE_RANK() - Ranking without gaps</p>
 Business Value: Provides insights into which departments are most/least compensated.
-![RANK() AND DENSE_RANK](/IMAGES/4(2).png)
+![RANK() AND DENSE_RANK](pic(2).jpg)
 
 3. generate_top_earners_report
 Purpose: Identifies top N earners in each department

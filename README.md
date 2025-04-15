@@ -51,11 +51,10 @@ Business Value: Helps identify salary progression patterns within departments
 Purpose: Ranks departments by average salary
 Window Functions Used:
 
-RANK() - Standard ranking with gaps
-
-DENSE_RANK() - Ranking without gaps
-
-Business Value: Provides insights into which departments are most/least compensated
+<P>1.RANK() - Standard ranking with gaps</P>
+<p>2.DENSE_RANK() - Ranking without gaps</p>
+Business Value: Provides insights into which departments are most/least compensated.
+![RANK() AND DENSE_RANK](/IMAGES/4(2).png)
 
 3. generate_top_earners_report
 Purpose: Identifies top N earners in each department

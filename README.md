@@ -29,7 +29,7 @@ Hire date, job ID, salary
 
 Department and manager relationships
 ## Screenshoot
-![table creation](1.png)
+![table creation](1.jpg)
 
 2. departments Table
 Contains department details:
@@ -37,6 +37,7 @@ Contains department details:
 Department ID and name
 
 Manager and location information
+![table creation](2.jpg)
 
 Procedures Implemented
 1. generate_salary_comparison_report

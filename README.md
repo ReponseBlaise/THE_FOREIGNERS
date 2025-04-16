@@ -28,6 +28,8 @@ Employee ID, name, contact details
 Hire date, job ID, salary
 
 Department and manager relationships
+## Screenshoot
+![table creation](,/1.jpg)
 
 2. departments Table
 Contains department details:
@@ -54,7 +56,7 @@ Window Functions Used:
 <P>1.RANK() - Standard ranking with gaps</P>
 <p>2.DENSE_RANK() - Ranking without gaps</p>
 Business Value: Provides insights into which departments are most/least compensated.
-![RANK() AND DENSE_RANK](pic(2).jpg)
+![RANK() AND DENSE_RANK](./4(2).png)
 
 3. generate_top_earners_report
 Purpose: Identifies top N earners in each department

@@ -29,7 +29,7 @@ Hire date, job ID, salary
 
 Department and manager relationships
 ## Screenshoot
-![table creation](,/1.jpg)
+![table creation](,/1.png)
 
 2. departments Table
 Contains department details:

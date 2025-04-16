@@ -37,7 +37,7 @@ Contains department details:
 Department ID and name
 
 Manager and location information
-![table creation](2.jpg)
+![table creation](1.jpg)
 
 Procedures Implemented
 1. generate_salary_comparison_report
@@ -57,7 +57,7 @@ Window Functions Used:
 <P>1.RANK() - Standard ranking with gaps</P>
 <p>2.DENSE_RANK() - Ranking without gaps</p>
 Business Value: Provides insights into which departments are most/least compensated.
-![RANK() AND DENSE_RANK](./4(2).png)
+![RANK() AND DENSE_RANK](./4(1).png)
 
 3. generate_top_earners_report
 Purpose: Identifies top N earners in each department

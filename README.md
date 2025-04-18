@@ -86,30 +86,34 @@ Business Value: Reveals compensation equity across the company
 
 
 
-##Real-World Applications
-HR Analytics: These procedures provide valuable insights for human resources departments to:
+## Real-World Applications<br>
+#### HR Analytics: These procedures provide valuable insights for human resources departments to:
 <ol>
-  Identify compensation trends
+  <li>Identify compensation trends</li>
 
-Spot potential salary inequities
+<li>Spot potential salary inequities</li>
 
-Make data-driven decisions about raises and promotions
+<li>Make data-driven decisions about raises and promotions</li>
+</ol>
 
-Financial Planning: The reports help finance teams:
+#### Financial Planning: The reports help finance teams:
+<ol>
 
-Forecast payroll expenses
+<li>Forecast payroll expenses</li>
 
-Allocate budgets by department
+<li>Allocate budgets by department</li>
 
-Plan for merit increases
+<li>Plan for merit increases</li>
+</ol>
 
-Employee Development: Managers can use this data to:
 
-Understand their team's compensation relative to others
+#### Employee Development: Managers can use this data to:
+<ol>
+<li>Understand their team's compensation relative to others</li>
 
-Develop retention strategies for top performers
+<li>Develop retention strategies for top performers</li>
 
-Create career progression plans
+<li>Create career progression plans</li>
 </ol>
 
 
@@ -117,7 +121,7 @@ Create career progression plans
 # Key Learnings
 Through this project, we've gained practical experience with:
 
-Window Function Concepts:
+### Window Function Concepts:
 
 -Partitioning data with PARTITION BY
 
@@ -125,7 +129,7 @@ Window Function Concepts:
 
 -Frame specification for sliding windows
 
-Specific Functions:
+### Specific Functions:
 
 -Ranking functions (RANK, DENSE_RANK, ROW_NUMBER)
 
@@ -149,6 +153,6 @@ Specific Functions:
 
 -Create visualization procedures to generate HTML reports
 
-;Add historical tracking for salary changes over time
+-Add historical tracking for salary changes over time
 
 

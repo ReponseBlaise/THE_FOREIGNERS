@@ -77,10 +77,13 @@ Purpose: Analyzes salary distribution across the organization
 Window Functions Used:
 
 MAX() OVER (PARTITION BY) - Department-level maximums
+![ranking](44.png)
 
 MAX() OVER () - Organization-wide maximum
 
 Business Value: Reveals compensation equity across the company
+![ranking](45.png)
+
 
 
 ##Real-World Applications
